@@ -1,11 +1,12 @@
 package main
 
 import (
-	"example/user/hello/lower"
-	"example/user/hello/maths"
-	"example/user/hello/morestrings"
-	"example/user/hello/upper"
 	"fmt"
+
+	"github.com/thanhit1990/go/lower"
+	"github.com/thanhit1990/go/maths"
+	"github.com/thanhit1990/go/morestrings"
+	"github.com/thanhit1990/go/upper"
 )
 
 func main() {
